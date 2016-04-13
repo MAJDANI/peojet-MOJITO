@@ -1,3 +1,3 @@
-# peojet-MOJITO
+# projet-MOJITO
 Test-fonctionnel-unitaires
 
